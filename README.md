@@ -1,6 +1,8 @@
 # Banco-de-Dados
 Projeto Banco de Dados
 Segue o código.
+
+
 Create Database Loja_de_Roupa
 
 CREATE TABLE Marca (
