@@ -3,7 +3,7 @@ Projeto Banco de Dados
 Segue o código.
 
 
-Create Database Loja_de_Roupa
+CREATE DATABASE Loja_de_Roupa
 
 CREATE TABLE Marca (
 CodigoMarca smallint identity PRIMARY KEY,
